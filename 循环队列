@@ -1,3 +1,5 @@
+
+LeetCode：641
 1,循环队列（假设有k个元素）
 前进：index=(index+1)%k
 后退：index=（inex-1+k）%K
